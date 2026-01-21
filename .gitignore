@@ -1,0 +1,12 @@
+# IDE / Editor
+.cursorindexingignore
+.specstory/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep .claude directory (skills, rules, CLAUDE.md)
+!.claude/
