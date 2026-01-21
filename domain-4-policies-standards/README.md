@@ -43,10 +43,6 @@ AWS Organizationsとガードレールの設計が中心。
 - [ ] 制約（起動/テンプレート/通知）
 - [ ] TagOptions
 
-## SRE本との関連
-
-- **第32章: SREのエンゲージメントモデルの進化** - ガバナンスと標準化
-
 ## 学習ファイル
 
 - [aws-config.md](./aws-config.md)

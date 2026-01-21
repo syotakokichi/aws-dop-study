@@ -40,7 +40,6 @@ aws-dop-study/
 ├── domain-6-ha-fault-tolerance/ # ドメイン6: 高可用性・耐障害性
 │
 ├── exam-prep/                   # 試験対策
-├── sre-aws-mapping/             # SRE本との知識連携
 └── resources/                   # 参考リソース
 ```
 
@@ -58,19 +57,6 @@ aws-dop-study/
 ```
 理論学習 → ハンズオン → 模試 → 振り返り → 理論学習...
 ```
-
-## SRE本との連携
-
-現在翻訳中の[SRE本](../sre-book/)の知識を活用し、DevOps概念を深く理解する。
-
-| SRE概念 | AWS関連サービス |
-|---------|-----------------|
-| SLO/SLI | CloudWatch メトリクス、Synthetics |
-| トイル削減 | Systems Manager Automation、Lambda |
-| インシデント対応 | EventBridge、Incident Manager |
-| ポストモーテム | CloudWatch Logs Insights |
-| リリースエンジニアリング | CodePipeline、Blue/Greenデプロイ |
-| モニタリング | CloudWatch、X-Ray、CloudTrail |
 
 ## 進捗確認
 

@@ -42,11 +42,6 @@ CloudFormation、CDK、Systems Managerが中心。
 - [ ] Session Manager
 - [ ] Inventory
 
-## SRE本との関連
-
-- **第5章: トイルの排除** - 自動化による運用負荷削減
-- **第7章: Googleにおける自動化の進化** - 構成管理の自動化
-
 ## 学習ファイル
 
 - [cloudformation.md](./cloudformation.md)
